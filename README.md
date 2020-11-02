@@ -9,7 +9,7 @@ Playtest my game here [here]
 
 ## Game Proposal Document
 
-Read the documentation for my game [here]
+Read the documentation for my game [here](builds/Game_Proposal_Document_moskaluk_douglas.docx)
 
 ## Prototype
 
