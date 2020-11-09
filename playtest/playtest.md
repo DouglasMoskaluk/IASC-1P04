@@ -2,6 +2,6 @@
 ## Playtest
 
 ## Play the game 
-Play the game porotype [here](prototype/TwineGamePrototype.html)
+Play the game prototype [here](prototype/TwineGamePrototype.html)
 
 ## Complete the playtest survey 
