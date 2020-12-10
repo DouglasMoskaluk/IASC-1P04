@@ -3,7 +3,7 @@
 
 ## About the Game
 
-Warp is a short adventure game in which the player plays an agent infiltrating a mysterious oraganization. Using experimental tech, the player must make quick decisions in order to make it out alive, to eventually bring down this organization. Whilst playing this game, choices affect what the outcome is, and multiple endings do occur. Using this, the story covays multiple messages throughout the game, with the main one being not to be too hasty, as taking your time is rewarded.
+Warp is a short adventure game in which the player plays an agent infiltrating a mysterious oraganization. It's prototype (called Perspective Shift) is a prologue. Using experimental tech, the player must make quick decisions in order to make it out alive, to eventually bring down this organization. Whilst playing this game, choices affect what the outcome is, and multiple endings do occur. Using this, the story covays multiple messages throughout the game, with the main one being not to be too hasty, as taking your time is rewarded.
 
 ## Play now
 
