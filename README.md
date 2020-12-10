@@ -1,16 +1,24 @@
-# IASC-1P04 | Douglas Moskaluk
-GitHub repository for IASC 1P04 course, Fall 2020
+# Warp by Douglas Moskaluk
+## IASC 1P04 | Fall 2020
 
-Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
+## About the Game
 
-## Game Proposal Document
+Warp is a short adventure game in which the player plays an agent infiltrating a mysterious oraganization. Using experimental tech, the player must make quick decisions in order to make it out alive, to eventually bring down this organization. Whilst playing this game, choices affect what the outcome is, and multiple endings do occur. Using this, the story covays multiple messages throughout the game, with the main one being not to be too hasty, as taking your time is rewarded.
 
-Read the documentation for my game [here](builds/Game_Proposal_Document_moskaluk_douglas.docx)
+## Play now
 
-## Prototype
+Play "Warp" [here](final_build/WarpFinal.html)
+
+### Playtest
+
+Playtest my game [here](playtest/playtest)
+
+### Prototype
 
 Play the prototype [here](prototype/TwineGamePrototype.html)
 
-## Final
+### Game Proposal Document
 
-Play my game [here](../final_build/WarpFinal.html)
+Read the documentation for my game [here](builds/Game_Proposal_Document_moskaluk_douglas.docx)
+
+
